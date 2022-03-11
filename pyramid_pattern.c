@@ -3,7 +3,7 @@ int fun1(int space,int star);
 int main()
 {
   int n,space,star;
-  printf("Give the number to draw * pyramid: ");
+  printf("Give the number to draw * pyramid : ");
   scanf("%d",&n);
   space=n-1;
   star=1;
